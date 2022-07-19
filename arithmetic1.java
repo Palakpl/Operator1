@@ -13,6 +13,8 @@ public class arithmetic1 {
         System.out.println("b = " + b);
         System.out.println("c = " + c);
         System.out.println("d = " + d);
+        b++;
+        System.out.println("b =" + b);
         System.out.println("Successfully create first repository");
 
 
